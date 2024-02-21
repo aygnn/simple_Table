@@ -1,0 +1,9 @@
+.input{
+    width: 25%;
+    margin-bottom: 21px !important;
+}
+.button{
+ 
+        display: flex;
+        justify-content: center;
+}

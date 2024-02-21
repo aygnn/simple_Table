@@ -1,0 +1,24 @@
+.home{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 24px;
+    margin-right: 56px;
+    color: green;
+}
+.add{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    display: flex;
+   
+}
+.esas{
+    box-shadow: inset 20px -19px 20px 0px rgb(81 41 10 / 10%), 0px 2px 2px rgb(81 41 10 / 20%);
+    margin-bottom: 13px;
+}
